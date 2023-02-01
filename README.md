@@ -12,4 +12,5 @@
   <img align="center" width="50" height="40" src="https://www.svgrepo.com/show/373623/git.svg">
   <img align="center" width="50" height="40" src="https://www.svgrepo.com/show/341847/github.svg">
   <img align="center" width="50" height="40" src="https://www.svgrepo.com/show/349502/sass.svg">
+  <img align="center" width="50" height="40" src="https://www.svgrepo.com/show/452149/adobe-photoshop.svg">
 </div>
